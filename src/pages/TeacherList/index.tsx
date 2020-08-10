@@ -1,7 +1,7 @@
 import React, { useState, FormEvent } from 'react';
 
 import PageHeader from '../../components/PageHeader';
-import TeacherItem, {Teacher} from '../../components/TeacherIten';
+import TeacherItem, {Teacher} from '../../components/TeacherItem';
 import Input from '../../components/Input';
 import Select from '../../components/Select';
 import './styles.css';
@@ -15,7 +15,7 @@ function TeacherList(){
     const [week_day, setWeek_day] = useState('');
     const [time, setTime] = useState('');
 
-     async function searchTeachers(e: FormEvent){
+    async function searchTeachers(e: FormEvent){
         e.preventDefault();
 
         const response = await api.get('classes', {
