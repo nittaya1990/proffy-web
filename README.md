@@ -17,18 +17,36 @@ Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocket
 * **[Repositório da API quer serve esta aplicação](https://github.com/MarcosWinicios/proffy-server)**
 * **[Repositório da aplicação mobile](https://github.com/MarcosWinicios/proffy-mobile)**
 
+## Como testar em sua máquina
+- **Antes de seguir os seguintes passos, você precisa ter instalado em sua máruina, o [Node JS](https://nodejs.org/en/) e o  gerenciador de pacotes [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable)**
+
+- **Para obter resultados com dados, utilize a [API](https://github.com/MarcosWinicios/proffy-server) que serve dados para este projeto.**
+
+1. Clone o repositório em algum diretório
+```sh
+  git clone git@github.com:MarcosWinicios/proffy-web.git
+```
+1. Instale todas as dependências
+```sh
+  yarn install
+```
+1. Executando o projeto
+```sh
+  yarn start
+```
+
 ## Telas
 
 - **HOME**
-![](screens/Home-Web.png)
+![](screens/landing-page.png)
 
 - **Cadastro de professores**
-!![](screens/Formulário-cadastro.png)
+!![](screens/form-cadastro.png)
 
 - **Listagem de professores**
-!![](screens/Listagem-Proffys.png)
+!![](screens/lista-professores.png)
 
 - **Sem resultados**
-!![](screens/Sem resultados.png)
+!![](screens/sem-resultados.png)
 
 
