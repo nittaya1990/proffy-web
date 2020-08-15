@@ -37,16 +37,16 @@ Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocket
 
 ## Telas
 
-- **HOME**
+- **Home**
 ![](screens/landing-page.png)
 
 - **Cadastro de professores**
-!![](screens/form-cadastro.png)
+![](screens/form-cadastro.png)
 
 - **Listagem de professores**
-!![](screens/lista-professores.png)
+![](screens/lista-professores.png)
 
 - **Sem resultados**
-!![](screens/sem-resultados.png)
+![](screens/sem-resultados.png)
 
 
