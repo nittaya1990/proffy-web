@@ -1,4 +1,4 @@
-# Proffy
+# Proffy - Aplicação Web
 
 ## Projeto desenvolvido durante a Next Level Week II.
 
@@ -12,9 +12,8 @@ Next Level Week é um evento gratuito realizado pela [RocketSeat](https://rocket
   - React JS
   - HTML5
   - CSS3
-  - SQLite3
 
-* **[Repositório da API quer serve esta aplicação](https://github.com/MarcosWinicios/proffy-server)**
+* **[Repositório da API que serve esta aplicação](https://github.com/MarcosWinicios/proffy-server)**
 * **[Repositório da aplicação mobile](https://github.com/MarcosWinicios/proffy-mobile)**
 
 ## Como testar em sua máquina
